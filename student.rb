@@ -58,6 +58,7 @@ class Student
   end
 
   def login
+    puts "\nhello"
     puts "\n----------- Login -----------\n"
     print "Plese enter your email id: "
     uname = gets.chomp
