@@ -5,6 +5,8 @@ class Home
     @lib_users = ["Admin Login", "Student Login", "Exit"]
   end
 
+
+
   def get_choice
     puts "\n----------- Library Management System -----------\n"
     while true
