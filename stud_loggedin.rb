@@ -10,6 +10,8 @@ class StudentLogin
     @length_quit = @args_list.length
   end
 
+
+
   def user_choice(user_id)
     @user_email = user_id
     puts "\n"
